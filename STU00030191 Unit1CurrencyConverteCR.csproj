@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\..\Grand Circus\Experiment with downloading\Program Sun Ev Currency convert.cs" />
+    <Compile Include="Program Sun Ev Currency convert.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

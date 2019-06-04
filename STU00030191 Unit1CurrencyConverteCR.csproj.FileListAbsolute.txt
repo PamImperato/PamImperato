@@ -1,0 +1,2 @@
+C:\Users\Pamela\source\repos\STU00030191 Unit1CurrencyConverteCR\obj\Debug\STU00030191 Unit1CurrencyConverteCR.csprojAssemblyReference.cache
+C:\Users\Pamela\source\repos\STU00030191 Unit1CurrencyConverteCR\obj\Debug\STU00030191 Unit1CurrencyConverteCR.csproj.CoreCompileInputs.cache
